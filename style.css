@@ -87,7 +87,7 @@ footer {
     text-align: center;
     padding: 1rem;
     position: absolute;
-    bottom: 50px;
+    top: 50px;
     width: 100%;
 }
 
