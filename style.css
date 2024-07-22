@@ -81,18 +81,16 @@ ul li a:hover {
     text-decoration: underline;
 }
 
-/* Footer */
 footer {
     background: #333;
     color: #fff;
     text-align: center;
     padding: 1rem;
     position: absolute;
-    bottom: 0;
+    bottom: 50px;
     width: 100%;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     nav ul {
         text-align: center;
